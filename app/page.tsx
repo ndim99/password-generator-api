@@ -58,7 +58,7 @@ export default function Home() {
           value={numberOfPasswords}
           onChange={(e) => setNumberOfPasswords(parseInt(e.target.value))}
           className="w-full outline-0 rounded-md p-2 border"
-          placeholder="Number of Passwords (e.g., 10)"
+          placeholder="Number of Passwords"
         />
       </div>
       <div className="flex flex-col gap-1 w-full">
@@ -71,7 +71,7 @@ export default function Home() {
           value={passLength}
           onChange={(e) => setPassLength(parseInt(e.target.value))}
           className="w-full outline-0 rounded-md p-2 border"
-          placeholder="Password Length (e.g., 12)"
+          placeholder="Password Length"
         />
       </div>
       <button
