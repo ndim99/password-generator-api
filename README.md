@@ -2,6 +2,9 @@
 
 A secure password generator API built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This application allows users to generate strong, customizable passwords with an intuitive UI for desktop and mobile devices.
 
+## 🚀 **Live Demo**  
+Check out the live version of the app hosted on [Vercel](https://password-generator-api-rosy.vercel.app/).
+
 ---
 
 ## 🛠️ **Features**
@@ -14,7 +17,7 @@ A secure password generator API built with **Next.js**, **TypeScript**, and **Ta
 
 ## 🖼️ **Screenshots**
 
-(public/ss.png)
+![Box](public/ss.png)
 
 ---
 
